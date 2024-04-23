@@ -22,7 +22,7 @@ We have created CLV-HD, a pioneering text-to-Chinese landscape painting video da
 ***ConCLVD takes only ~24GB VRAM to train and inference, and run on a single RTX3090 !!***
 
 ```
-git clone https://github.com/ConCLVD/ConCLVD.git
+git clone https://github.com/dmLiu22/ConCLVD.git
 cd ConCLVD
 
 conda env create -f environment.yaml
