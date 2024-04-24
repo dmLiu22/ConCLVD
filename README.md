@@ -1,8 +1,5 @@
 # ConCLVD
 
-This repository is the official implementation of [ConCLVD].
-
-**[ConCLVD: Controllable Chinese Landscape Video Generation via Diffusion Model]**
 
 
 ## Introduction
